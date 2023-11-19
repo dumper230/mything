@@ -11,3 +11,9 @@ This is my thing.
 Here's the same image but in my repo
 
 [gluetun_vpn_randomizer.png](images/gluetun_vpn_randomizer.png)
+
+---
+And this embeds the image...
+
+![gluetun_vpn_randomizer.png](images/gluetun_vpn_randomizer.png)
+

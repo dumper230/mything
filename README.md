@@ -25,6 +25,7 @@ This is one of many examples of using multiple VPN instances in a given environm
 - HAProxy: 192.168.1.100
     - Acts as load balancer and distribution to multiple Gluetun VPN instances
     - In this example port 8118 is the listening HTTP/HTTPS proxy
+    - See the configuration example [haproxy.cfg](haproxy/haproxy.cfg)
 - Virtual Machines: 192.168.20.10, 192.168.30.10
     - Separate subnets of 192.168.20/24 and 192.168.30/24 are optional
     - Each virtual machine contains a running randomizer and Docker container(s)
